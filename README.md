@@ -19,7 +19,11 @@ This repository contains a desktop-only clone of the Taters online store UI, cre
 To run the project locally:
 
 ```bash
-git clone https://github.com/yourusername/taters-clone.git
+git clone https://github.com/Jimuell12/taters-clone.git
 cd taters-clone
 npm install
 npm start
+
+## Live Demo
+
+You can view the live demo of the project [here](https://taters-a354f.web.app).

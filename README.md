@@ -23,7 +23,8 @@ git clone https://github.com/Jimuell12/taters-clone.git
 cd taters-clone
 npm install
 npm start
+```
 
 ## Live Demo
 
-You can view the live demo of the project [here](https://taters-a354f.web.app).
+You can view the live demo of the project [here](https://taters-a354f.web.app/)

@@ -1,17 +1,17 @@
 # Taters Online Store UI Clone
 
-This repository contains a desktop-only clone of the Taters online store UI, created using React without any additional frameworks. This project was developed as part of an OJT application requirement, focusing on replicating the website's design and layout.
+This repository contains a desktop-only clone of the Taters online store UI, created using React and styled with Tailwind CSS. The project was developed as part of an OJT application requirement, focusing on replicating the website's design and layout.
 
 ## Features
 
-- **Desktop Layout:** Tailored for desktop screens, without responsive design.
-- **React Components:** UI built with React, emphasizing modularity and reusability.
-- **No CSS Frameworks:** Styled using plain CSS.
+- **Desktop Layout:** Tailored specifically for desktop screens.
+- **React Components:** Built using React with a focus on modular and reusable components.
+- **Tailwind CSS:** Utilized for efficient and responsive styling.
 
 ## Technologies Used
 
 - React
-- CSS3
+- Tailwind CSS
 - JavaScript (ES6+)
 
 ## Setup
